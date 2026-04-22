@@ -236,5 +236,11 @@ tableextension 70300 "Sales Header Archive Ext" extends "Sales Header Archive"
                     "Thermograph 2" := '';
             end;
         }
+
+        field(70284; "Blueprint"; Text[30])
+        {
+            Caption = 'Blueprint';
+            DataClassification = CustomerContent;
+        }
     }
 }

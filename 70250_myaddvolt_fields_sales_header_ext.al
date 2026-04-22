@@ -236,5 +236,11 @@ tableextension 70250 "Sales Header Ext" extends "Sales Header"
                     "Thermograph 2" := '';
             end;
         }
+
+        field(70284; "Blueprint"; Text[30])
+        {
+            Caption = 'Blueprint';
+            DataClassification = CustomerContent;
+        }
     }
 }
