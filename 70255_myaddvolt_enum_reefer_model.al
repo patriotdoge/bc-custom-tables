@@ -1,0 +1,55 @@
+enum 70255 "Reefer Model Enum"
+{
+    Extensible = true;
+
+    value(0; " ") { Caption = ' '; }
+    value(1; "Iceland 11") { Caption = 'Iceland 11'; }
+    value(2; "Iceland 18 Twincool") { Caption = 'Iceland 18 Twincool'; }
+    value(3; "Syberia 11") { Caption = 'Syberia 11'; }
+    value(4; "Syberia 14") { Caption = 'Syberia 14'; }
+    value(5; "Syberia 18 Twincool") { Caption = 'Syberia 18 Twincool'; }
+    value(6; "Pulsor 600 MT") { Caption = 'Pulsor 600 MT'; }
+    value(7; "Xarios 350") { Caption = 'Xarios 350'; }
+    value(8; "Xarios 6") { Caption = 'Xarios 6'; }
+    value(9; "Supra 750") { Caption = 'Supra 750'; }
+    value(10; "Supra 950 MT") { Caption = 'Supra 950 (MT)'; }
+    value(11; "Supra 1150 MT") { Caption = 'Supra 1150 (MT)'; }
+    value(12; "Supra 1250 MT") { Caption = 'Supra 1250 (MT)'; }
+    value(13; "Supra HE 8") { Caption = 'Supra HE 8'; }
+    value(14; "Supra HE 11") { Caption = 'Supra HE 11'; }
+    value(15; "Vector 1550 MT City") { Caption = 'Vector 1550 (MT)(City)'; }
+    value(16; "Vector 1550 MT City 60Hz") { Caption = 'Vector 1550 (MT)(City) 60Hz'; }
+    value(17; "Vector 1950 MT City") { Caption = 'Vector 1950 (MT)(City)'; }
+    value(18; "Vector 1950 MT City 60Hz") { Caption = 'Vector 1950 (MT)(City) 60Hz'; }
+    value(19; "Vector 8500") { Caption = 'Vector 8500'; }
+    value(20; "Vector HE 17") { Caption = 'Vector HE 17'; }
+    value(21; "Vector HE 19 MT") { Caption = 'Vector HE 19 (MT)'; }
+    value(22; "Vector HE 19 MT 60Hz") { Caption = 'Vector HE 19 (MT) 60Hz'; }
+    value(23; "D11") { Caption = 'D11'; }
+    value(24; "FK 13") { Caption = 'FK 13'; }
+    value(25; "FK2") { Caption = 'FK2'; }
+    value(26; "FK25I") { Caption = 'FK25I'; }
+    value(27; "FK25R") { Caption = 'FK25R'; }
+    value(28; "HK 25R") { Caption = 'HK 25R'; }
+    value(29; "EK25L") { Caption = 'EK25L'; }
+    value(30; "EK25SL") { Caption = 'EK25SL'; }
+    value(31; "T1200R Spectrum T1000R") { Caption = 'T-1200R (Spectrum) / T1000R'; }
+    value(32; "T1200R Spectrum T1000R 60Hz") { Caption = 'T-1200R (Spectrum) / T1000R 60Hz'; }
+    value(33; "UT1200 Spectrum") { Caption = 'UT-1200 (Spectrum)'; }
+    value(34; "SLXi300") { Caption = 'SLXi-300'; }
+    value(35; "SLXi400") { Caption = 'SLXi-400'; }
+    value(36; "SLXi Spectrum") { Caption = 'SLXi -Spectrum'; }
+    value(37; "V600 MAX") { Caption = 'V-600 MAX'; }
+    value(38; "V800 MAX Spectrum") { Caption = 'V-800 MAX (Spectrum)'; }
+    value(39; "V1000 MAX") { Caption = 'V-1000 MAX'; }
+    value(40; "V1000 Spectrum") { Caption = 'V-1000 Spectrum'; }
+    value(41; "A400 Advance") { Caption = 'A400 Advance'; }
+    value(42; "A500 Advance") { Caption = 'A500 Advance'; }
+    value(43; "TEJ 50 BattOut") { Caption = 'TEJ 50 -> If TRU connection from BattOut'; }
+    value(44; "TEJ 50 LC") { Caption = 'TEJ 50 -> If TRU connection from LC'; }
+    value(45; "TEJ 130") { Caption = 'TEJ 130'; }
+    value(46; "TU100SA") { Caption = 'TU100SA'; }
+    value(47; "TFV150GA") { Caption = 'TFV150GA'; }
+    value(48; "T-1300 Spectrum") { Caption = 'T-1300 Spectrum'; }
+    value(49; "UT-R SPECTRUM") { Caption = 'UT-R SPECTRUM'; }
+}
