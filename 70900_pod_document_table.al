@@ -42,6 +42,11 @@ table 70900 "POD Document"
             Caption = 'Content';
             DataClassification = CustomerContent;
         }
+        field(8; "Tracking No."; Text[50])
+        {
+            Caption = 'Tracking No.';
+            DataClassification = CustomerContent;
+        }
     }
 
     keys
